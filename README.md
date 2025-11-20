@@ -2,17 +2,7 @@
 
 A  RAG (Retrieval-Augmented Generation) system that scrapes loan information from Bank of Maharashtra pages, preprocesses it into chunks, builds a FAISS index, and serves answers using a FastAPI API +  web UI.
 
-This project includes:
-
- Selenium-based scraper
-
- Preprocessing to create clean RAG chunks
-
- FAISS indexing for fast semantic search
-
- A FastAPI backend to answer queries
-
- A minimal HTML UI served via /static/index.html
+## Project Setup
 
 # Step 1
 Run the Scraper
@@ -62,3 +52,34 @@ rag.py
 # Command to run fastapi
 
 uvicorn rag:app --reload
+
+## Architectural Decisions
+# Libraries
+- Selenium: Scrapes dynamic pages with JavaScript.
+- BeautifulSoup: Parses headings, paragraphs, lists, and tables.
+- FAISS: Fast vector search for RAG.
+- SentenceTransformers: Converts text into embeddings.
+- FastAPI: Serves the RAG system via an API.
+- OpenAI API: Generates answers from retrieved chunks.
+
+# Data Strategy
+
+Chunking: Split paragraphs, list items, and table rows into small pieces as Smaller chunks improve search accuracy and context for the LLM.
+
+# Model Selection
+
+- Embedding Model: all-MiniLM-L6-v2 – small, fast, effective.
+- LLM: GPT-4 – high-quality, context-aware answers.
+
+# AI Tools Used
+
+- OpenAI GPT-4: Generates answers.
+- FAISS: Fast retrieval of relevant chunks.
+- SentenceTransformers: Embeddings for vector search.
+
+# Potential Improvements
+
+- Cache embeddings to speed up preprocessing.
+
+- Use smarter chunking (e.g., overlapping chunks).
+
