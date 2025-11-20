@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loan Product Assistant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f7fc;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            width: 700px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        h1 {
+            text-align: center;
+            font-size: 24px;
+            color: #333;
+        }
+        .chat-container {
+            width: 100%;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            height: 600px;
+        }
+        .chat-box {
+            flex-grow: 1;
+            overflow-y: auto;
+            margin-bottom: 20px;
+            padding-right: 10px;
+        }
+        .user-message, .bot-message {
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+            max-width: 70%;
+        }
+        .user-message {
+            background-color: #d1e7ff;
+            align-self: flex-end;
+        }
+        .bot-message {
+            background-color: #e8e8e8;
+            align-self: flex-start;
+        }
+        .input-container {
+            display: flex;
+            align-items: center;
+        }
+        .input-container input, .input-container select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-right: 10px;
+        }
+        .input-container button {
+            padding: 10px 15px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .input-container button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Loan Product Assistant</h1>
+        <div class="chat-container">
+            <div class="chat-box" id="chatBox">
+                <!-- Chat messages appear here -->
+            </div>
+            <div class="input-container">
+                <input type="text" id="userInput" placeholder="Type a message...">
+                <select id="modelSelect">
+                    <option value="gpt-4">GPT-4</option>
+                    <option value="gpt-3.5">GPT-3.5</option>
+                </select>
+                <button onclick="sendMessage()">Send</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        async function sendMessage() {
+            const userMessage = document.getElementById('userInput').value.trim();
+            if (!userMessage) return;
+
+            const chatBox = document.getElementById('chatBox');
+            chatBox.innerHTML += `<div class="user-message">${userMessage}</div>`;
+            document.getElementById('userInput').value = '';
+            chatBox.scrollTop = chatBox.scrollHeight;
+
+            const selectedModel = document.getElementById('modelSelect').value;
+            const endpoint = '/get_answer'; // matches your FastAPI route
+
+            try {
+                const response = await fetch(endpoint, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ query: userMessage })
+                });
+                const data = await response.json();
+                const botMessage = data.answer || "No response";
+
+                chatBox.innerHTML += `<div class="bot-message">${botMessage}</div>`;
+                chatBox.scrollTop = chatBox.scrollHeight;
+            } catch (err) {
+                console.error("Error:", err);
+                chatBox.innerHTML += `<div class="bot-message">Error fetching response</div>`;
+            }
+        }
+
+        // Initial greeting
+        window.onload = function() {
+            const chatBox = document.getElementById('chatBox');
+            chatBox.innerHTML += `<div class="bot-message">Hello! How can I assist you today?</div>`;
+        };
+    </script>
+</body>
+</html>

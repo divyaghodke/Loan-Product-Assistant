@@ -1,0 +1,1082 @@
+[
+  {
+    "chunk_text": "retail_interest_rates: Rate of Interest structure as mentioned bellow (RLLR-8.30%)"
+  },
+  {
+    "chunk_text": "retail_interest_rates: a)  Housing loan to General Public"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Salaried"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Non Salaried"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 800 & above | RLLR | -0.95% | 7.35% | RLLR | -0.85% | 7.45% | 750 to 799 | RLLR | -0.80% | 7.50% | RLLR | -0.70% | 7.60% | 725 to 749 | RLLR | -0.35% | 7.95% | RLLR | -0.25% | 8.05% | 700 to 724 | RLLR | 0.30% | 8.00% | RLLR | -0.10% | 8.20% | 650 to 699 | RLLR | 0.30% | 8.60% | RLLR | 0.50% | 8.80% | 600 to 649 | RLLR | 0.70% | 9.00% | RLLR | 0.90% | 9.20%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: below 600"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 1.10% | 9.40% | RLLR | 1.60% | 9.90% | -1 to 05 /NTC | RLLR | -0.35% | 7.95% | RLLR | -0.15% | 8.15%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: b) Housing Loan to Salaried Employees (Minimum Gross Monthly salary Rs 50000/-) of Central Govt./State Govt. /Public Sector Undertaking/ Govt. aided Education Institutions. (Not routed through DSA)"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL Score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Rate of Interest"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 700 & above | RLLR - 0.90% | 7.40%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Note – Above Rate of Interest structure will be applicable only if proposal is not routed through DSAs"
+  },
+  {
+    "chunk_text": "retail_interest_rates: c) Concession in ROI for Housing loan:"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Particulars"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Rate of Interest"
+  },
+  {
+    "chunk_text": "retail_interest_rates: For Loan upto Rs 100.00 Lakhs"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Premium of 100 bps over and above applicable Rate of Interest for normal Housing Loan based on CIBIL score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: For Loan above Rs 100.00 Lakhs"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Premium of 125 bps over and above applicable Rate of Interest for normal Housing Loan based on CIBIL score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL Score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Rate of Interest"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 800 & above"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Premium of 50 bps over & above applicable ROI for Maha Super Housing Loan based on CIBIL score structure."
+  },
+  {
+    "chunk_text": "retail_interest_rates: 750 to 799"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Premium of 75 bps over & above applicable ROI for Maha Super Housing Loan based on CIBIL score structure."
+  },
+  {
+    "chunk_text": "retail_interest_rates: 681 to 749"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Premium of 100 bps over & above applicable ROI for Maha Super Housing Loan based on CIBIL score structure."
+  },
+  {
+    "chunk_text": "retail_interest_rates: 680 and below"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Premium of 300 bps over & above applicable ROI for Maha Super Housing Loan based on CIBIL score structure."
+  },
+  {
+    "chunk_text": "retail_interest_rates: Maha Super Car Loan Scheme"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Salaried"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Non- Salaried"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 800 & above | RLLR | -0.60% | 7.70% | RLLR | -0.50% | 7.80% | 776 to 799 | RLLR | -0.40% | 7.90% | RLLR | -0.30% | 8.00% | 750 to 775 | RLLR | -0.30% | 8.00% | RLLR | -0.20% | 8.10% | 700 to 749 | RLLR | 0.00% | 8.30% | RLLR | 0.20% | 8.50% | 650 to 699 | RLLR | 1.55% | 9.85% | RLLR | 1.75% | 10.05% | 600 to 649 | RLLR | 1.85% | 10.15% | RLLR | 2.20% | 10.50%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Below 600"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 2.60% | 10.90% | RLLR | 3.70% | 12.00% | -1 or 0 and NTC | RLLR | 0.70% | 9.00% | RLLR | 2.20% | 10.50%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: For Firms / Companies"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Category"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Firms / CompaniesExternal Rating A & above"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 0.50% | 8.80%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Firms / CompaniesCMR Rating 1-5"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 0.50% | 8.80%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Others Firms / Companies"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 1.00% | 9.30%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Concessions in ROI"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 750 and above | RLLR | 3.15% | 11.45% | 700 to 749 | RLLR | 3.50% | 11.80% | 650 to 699 | RLLR | 4.00% | 12.30% | 600 to 649 | RLLR | 5.00% | 13.30%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Below 600"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 6.00% | 14.30% | -1 or 0 and 01 to 05 | RLLR | 4.00% | 12.30%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 750 and above | RLLR | 3.15% | 11.45% | 700 to 749 | RLLR | 3.50% | 11.80% | 650 to 699 | RLLR | 4.00% | 12.30% | 600 to 649 | RLLR | 5.00% | 13.30%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Below 600"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 6.00% | 14.30% | -1 or 0 and 01 to 05 | RLLR | 4.00% | 12.30%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: A"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Maha Bank Personal Loan scheme for Salaried Borrowers."
+  },
+  {
+    "chunk_text": "retail_interest_rates: Category –Ai.e. Confirmed Employees of Central Govt. / State Govt. / Public Sector Undertakings/ Govt. Educational Institutions:"
+  },
+  {
+    "chunk_text": "retail_interest_rates: a)   Having Salary Account with Bank of Maharashtra"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL Score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 800 & above | RLLR | 0.70% | 9.00% | 776 to 799 | RLLR | 1.00% | 9.30% | 750 to 775 | RLLR | 1.50% | 9.80% | 681 to 749 | RLLR | 2.00% | 10.30% | 680 & below | RLLR | 4.00% | 12.30%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: NTC or -1 or 0"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 1.70% | 10.00%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: b)   Having Salary Account with Other Bank"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL Score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 800 & above | RLLR | 1.50% | 9.80% | 776 to 799 | RLLR | 2.00% | 10.30% | 750 to 775 | RLLR | 2.50% | 10.80% | 681 to 749 | RLLR | 3.00% | 11.30% | 680 & below | RLLR | 5.00% | 13.30%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: NTC or -1 or 0"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 2.75% | 11.05%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Category –Bi.eConfirmed Employees of Private / Public Limited Company having external rating “A” & above:"
+  },
+  {
+    "chunk_text": "retail_interest_rates: a)   Having Salary Account with Bank of Maharashtra"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL Score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 800 & above | RLLR | 1.50% | 9.80% | 776 to 799 | RLLR | 2.00% | 10.30% | 750 to 775 | RLLR | 2.50% | 10.80% | 681 to 749 | RLLR | 3.00% | 11.30% | 680 & below | RLLR | 5.00% | 13.30%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: NTC or -1 or 0"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 2.75% | 11.05%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: b)   Having Salary Account with Other Bank"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL Score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 800 & above | RLLR | 1.90% | 10.20% | 776 to 799 | RLLR | 2.50% | 10.80% | 750 to 775 | RLLR | 3.00% | 11.30% | 681 to 749 | RLLR | 3.50% | 11.80% | 680 & below | RLLR | 5.50% | 13.80%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: NTC or -1 or 0"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 3.25% | 11.55%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Category Ci.e All Other Salary account holders (Confirmed Employees) whose salary is credited in our Bank and tie up arrangement with employer or irrevocable undertaking from employer is available:"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL Score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 800 & above | RLLR | 1.90% | 10.20% | 776 to 799 | RLLR | 2.45% | 10.75% | 750 to 775 | RLLR | 2.95% | 11.25% | 681 to 749 | RLLR | 3.45% | 11.75% | 680 & below | RLLR | 5.00% | 13.30%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: NTC or -1 or 0"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 3.25% | 11.55%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: C"
+  },
+  {
+    "chunk_text": "retail_interest_rates: MAHA BANK PERSONAL LOAN SCHEMEFOR PROFESSIONALS"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL Score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 800 & above | RLLR | 2.00% | 10.30% | 776 to 799 | RLLR | 2.50% | 10.80% | 750 to 775 | RLLR | 3.00% | 11.30% | 681 to 749 | RLLR | 3.50% | 11.80% | 680 & below | RLLR | 5.00% | 13.30%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: NTC or -1 or 0"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 2.75% | 11.05%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: D"
+  },
+  {
+    "chunk_text": "retail_interest_rates: MAHA BANK PERSONAL LOAN SCHEME- for Business Class having Home Loan with us."
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL Score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 800 & above | RLLR | 2.50% | 10.80% | 776 to 799 | RLLR | 2.75% | 11.05% | 750 to 775 | RLLR | 3.00% | 11.30% | 681 to 749 | RLLR | 3.50% | 11.80% | 680 & below | RLLR | 5.00% | 13.30%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: NTC or -1 or 0"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 3.25% | 11.55%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Withdrawal of concession for category A and B borrower, maintaining salary account with us in ROI on the loan account on following scenario: -"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 1.50% | 9.80%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL Score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 750 and above | RLLR | 1.65% | 9.95% | 700 to 749 | RLLR | 2.00% | 10.30% | 650 to 699 | RLLR | 2.15% | 10.45% | 600 to 649 | RLLR | 2.40% | 10.70%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Below 600"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 2.65% | 10.95% | -1 or 0 and 01 to 05 | RLLR | 2.15% | 10.45%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Loan amount"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Up to Rs 7.50 Lacs"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 2.00% | 10.30%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Above Rs 7.50 Lacs"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 1.65% | 9.95%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: For Children of staff where employee is the co-applicant"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 0.00% | 8.30%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Interest Concession under Model Education loan scheme–"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Other Interest Rate Concessions under Model Education loan scheme-"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Our Bank is offering concessions in rate of interest to student borrowers on Education loans as under:-"
+  },
+  {
+    "chunk_text": "retail_interest_rates: % of marks obtained at all level (Average)*"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Rating"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Concession in applicable ROI"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 90 and above"
+  },
+  {
+    "chunk_text": "retail_interest_rates: AAA"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 0.25 % | 80 – 89"
+  },
+  {
+    "chunk_text": "retail_interest_rates: AA"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 0.15 % | 75 – 79"
+  },
+  {
+    "chunk_text": "retail_interest_rates: A"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 0.10 % | 60 – 74"
+  },
+  {
+    "chunk_text": "retail_interest_rates: B"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Nil"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Below 60"
+  },
+  {
+    "chunk_text": "retail_interest_rates: C"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Nil"
+  },
+  {
+    "chunk_text": "retail_interest_rates: * Average of marks obtained in previous academic performance such as (10th, 12th, Diploma, Degree etc.)"
+  },
+  {
+    "chunk_text": "retail_interest_rates: NOTE:Please note that maximum permissible concession/discount available in ROI inclusive of all above schemes is restricted to 0.50 % only. Wherever the concessions are allowed under the Education Loans, minimum applicable ROI should be RLLR as floor rate."
+  },
+  {
+    "chunk_text": "retail_interest_rates: Classification"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: For List - AAA Institutions"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | -1.20% | 7.10%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: For List - AA Institutions"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | -0.95% | 7.35%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: For List - A Institutions"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | -0.80% | 7.50%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: For List - B Institutions"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 0.50% | 8.80%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 0.50% | 8.80%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 1.50% | 9.80%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 1.15% | 9.45%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Particulars"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: For General Pensioners"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 1.70% | 10.00%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: For Defense & Staff   Pensioners"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 1.20% | 9.50%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 3.15% | 11.45%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 3.90% | 12.20%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 2.15% | 10.45%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 1.15% | 9.45%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Category"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Retail"
+  },
+  {
+    "chunk_text": "retail_interest_rates: RLLR | 0.45% | 8.75%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Agriculture"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Three Month MCLR"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 0.10% | 8.65%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Loan Amount"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Category"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL Score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: For Loan upto ₹ 2.00 lakhs"
+  },
+  {
+    "chunk_text": "retail_interest_rates: For Non-Home Loan Borrower&Home Loan Borrower"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 680 & above / NTC | RLLR | -2.30% | 6.00%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: For loan above ₹ 2.00 lakhs"
+  },
+  {
+    "chunk_text": "retail_interest_rates: For Non-Home Loan borrower"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 800 & above | RLLR | 0.20% | 8.50% | 750 to 799 | RLLR | 0.50% | 8.80% | 700 to 749 | RLLR | 0.75% | 9.05% | 680 to 699 | RLLR | 1.00% | 9.30%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: For New Home Loan customers under composite scheme & existing Home Loan customers:"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Applicable Rate as per CIC based Housing Loan Rate of Interest structure"
+  },
+  {
+    "chunk_text": "retail_interest_rates: *Benchmark:1 YR MCLRi.e. 9.10% at present"
+  },
+  {
+    "chunk_text": "retail_interest_rates: a)  Fixed Rate of Interest for under Maha Super Housing Loan Scheme"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Salaried / Non-Salaried"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Loan amount"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Up to Rs 30 Lakhs"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 1 YR MCLR | 2.65% | 11.75%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Above Rs. 30 Lakhs to Rs 75 Lakhs"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 1 YR MCLR | 3.65% | 12.75%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Above Rs 75 Lakh   to Rs 200 Lakhs"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 1 YR MCLR | 3.85% | 12.95%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: b)  Fixed Rate of Interest for under Maha Super Green Housing Loan Scheme"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Salaried / Non-Salaried"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Loan amount"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Up to  Rs  30 Lakhs"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 1 YR MCLR | 2.55% | 11.65%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Above Rs. 30 Lakhs to Rs 75 Lakhs"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 1 YR MCLR | 3.55% | 12.65%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Above Rs  75 Lakh   to Rs 200 Lakhs"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 1 YR MCLR | 3.75% | 12.85%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: a)  Fixed Rate of Interest for New Car Loan under Maha Super Car Loan Scheme"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Salaried"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Non-Salaried"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 750 & above | 1 YR MCLR | 1.30% | 10.40% | 1 YR MCLR | 1.50% | 10.60% | 700- 749 | 1 YR MCLR | 1.75% | 10.85% | 1 YR MCLR | 2.00% | 11.10%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: NTC (100-200) /-1"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 1 YR MCLR | 1.75% | 10.85% | 1 YR MCLR | 2.00% | 11.10%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: b)   Fixed Rate of Interest for New Car Loan under Maha Super Green Car Loan Scheme (E-Vehicle)"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Salaried"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Non-Salaried"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIBIL score"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Benchmark"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Spread"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 750 & above | 1 YR MCLR | 1.20% | 10.30% | 1 YR MCLR | 1.40% | 10.50% | 700- 749 | 1 YR MCLR | 1.65% | 10.75% | 1 YR MCLR | 1.90% | 11.00%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: NTC (100-200) /-1"
+  },
+  {
+    "chunk_text": "retail_interest_rates: 1 YR MCLR | 1.65% | 10.75% | 1 YR MCLR | 1.90% | 11.00%"
+  },
+  {
+    "chunk_text": "retail_interest_rates: *****"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Abbreviations:"
+  },
+  {
+    "chunk_text": "retail_interest_rates: ER: Effective Rate"
+  },
+  {
+    "chunk_text": "retail_interest_rates: CIC: Credit Information Company"
+  },
+  {
+    "chunk_text": "retail_interest_rates: Bps: Basis Points"
+  },
+  {
+    "chunk_text": "maha_super_flexi: In this Home loan scheme, the borrowers’ account is linked to a dedicated savings account. So, when a borrower deposits the surplus money to the account, it will be considered credit towards the loan, thus reducing the interest on the outstanding loan amount."
+  },
+  {
+    "chunk_text": "maha_super_flexi: Also, if needed, the borrower has option to withdraw money whenever required. The loan will get rebalanced accordingly."
+  },
+  {
+    "chunk_text": "maha_super_flexi: Key Features"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Benefits to the borrowers"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Maha Super Flexi Housing Loan – for New or existing house/flat and extension of existing house/flat"
+  },
+  {
+    "chunk_text": "maha_super_flexi: S.No"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Particulars"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Scheme guidelines"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Nature of facility"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Term Loan linked with Saving Account."
+  },
+  {
+    "chunk_text": "maha_super_flexi: Purpose"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Eligibility"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Individual salaried employees/ self-employed professionals/Businessman / Agriculturist"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Eligible Quantum of Loan"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Maximum loan amount will be lowest of loan amount assessed on the basis of"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Loan Amount"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Minimum- Rs 50.00 Lakh"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Maximum- No Maximum Limit"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Loan to value and Margins Norms"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Category of Loan (Individual Home Loan amount)"
+  },
+  {
+    "chunk_text": "maha_super_flexi: LTV Ratio"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Up to Rs.75.00 Lakh"
+  },
+  {
+    "chunk_text": "maha_super_flexi: 80%"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Above Rs.75.00"
+  },
+  {
+    "chunk_text": "maha_super_flexi: 75%"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Repayment period"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Maximum Repayment period of30 yearsor on borrower reaching the age of 75 years whichever is earlier."
+  },
+  {
+    "chunk_text": "maha_super_flexi: Rate of Interest"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Additional 0.25% above the existing ROI as per “ Maha Super Housing Loan scheme” will be applicable."
+  },
+  {
+    "chunk_text": "maha_super_flexi: Deduction"
+  },
+  {
+    "chunk_text": "maha_super_flexi: For Salaried individuals."
+  },
+  {
+    "chunk_text": "maha_super_flexi: Up to 80% based on latest Gross monthly income"
+  },
+  {
+    "chunk_text": "maha_super_flexi: For Non-Salaried Individuals"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Up to 80% based on average annual income"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Flexi Credit Arrangement"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Security"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Equitable / Registered Mortgage of Property."
+  },
+  {
+    "chunk_text": "maha_super_flexi: Processing Fee"
+  },
+  {
+    "chunk_text": "maha_super_flexi: 0.25 % of the loan amount (Subject to max. of Rs. 25,000/-)"
+  },
+  {
+    "chunk_text": "maha_super_flexi: (currently waived up to 30.09.2024)"
+  },
+  {
+    "chunk_text": "maha_super_flexi: Full waiver of Processing Fee for Govt. /State /Central Government / Public sector Employees in case of Takeover Loans"
+  },
+  {
+    "chunk_text": "car_festive_blog: The festive season has to be the most perfect time to transform your dream of owning a car into reality. This period not only develops joy with celebrations but also a host of exclusivefestive season car deals."
+  },
+  {
+    "chunk_text": "car_festive_blog: Automakers as well as dealerships come up with special offers while making it more affordable in order to purchase your desired vehicle."
+  },
+  {
+    "chunk_text": "car_festive_blog: Starting from attractive discounts to flexible financing options and also decreased interest rates, the festive season demonstrates a buyer-friendly market for people in every class."
+  },
+  {
+    "chunk_text": "car_festive_blog: In addition to that, many banks offer added benefits for example lower processing fees or cashback on car loans while increasing affordability. Furthermore, new car models are often launched during this time, giving you access to the latest features."
+  },
+  {
+    "chunk_text": "car_festive_blog: The festive season also aligns with bonuses and incentives that can be leveraged towards down payments. Therefore, it’s the ideal time to secure a better deal and bring home a new car, turning celebrations into a milestone moment."
+  },
+  {
+    "chunk_text": "car_festive_blog: Every time you think of buying your dream car, it is obvious that you will try to get the best deal and also there are several other reasons which direct the same so let’s take a deep look!"
+  },
+  {
+    "chunk_text": "car_festive_blog: As a whole, the festive season is the ideal time to buy a car because of car discounts in the time of festivals, additionally, there are other benefits to purchasing a car during the festive season and favourablenew car loan interest rates, making it a strategic and economical decision."
+  },
+  {
+    "chunk_text": "car_festive_blog: In summary, BoM's 7.70% new car loan interest rate, zero processing fee and easy service make it the best choice for financing your new car!"
+  },
+  {
+    "chunk_text": "car_festive_blog: In conclusion, it can be said thatcar shopping during Diwali/Christmas/New Yearis the ideal time to turn your dream of owning a car into reality."
+  },
+  {
+    "chunk_text": "car_festive_blog: With exclusive festive discounts, lower interest rates and attractive benefits like zero processing fees and added perks, the festive season offers unmatched value. Banks often introduce special car loan schemes, making it more affordable to manage EMIs."
+  },
+  {
+    "chunk_text": "car_festive_blog: Plus, automakers launch new models, giving you access to the latest features at competitive prices. It’s a smart move to buy a car during this auspicious period, ensuring maximum savings, enhanced convenience and a seamless purchase experience."
+  },
+  {
+    "chunk_text": "car_festive_blog: Author:Bank of MaharashtraDate of Publish:31 Oct, 2024"
+  }
+]
