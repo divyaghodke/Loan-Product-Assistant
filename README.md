@@ -1,4 +1,4 @@
-## Loan-Product-Assistant
+## Agentic-ai-loan-assistant
 
 A  RAG (Retrieval-Augmented Generation) system that scrapes loan information from Bank of Maharashtra pages, preprocesses it into chunks, builds a FAISS index, and serves answers using a FastAPI API +  web UI.
 
