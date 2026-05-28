@@ -1,85 +1,187 @@
-## Agentic-ai-loan-assistant
+# Agentic AI Loan Assistant
 
-A  RAG (Retrieval-Augmented Generation) system that scrapes loan information from Bank of Maharashtra pages, preprocesses it into chunks, builds a FAISS index, and serves answers using a FastAPI API +  web UI.
+An AI-powered financial product assistant built using Retrieval-Augmented Generation (RAG) and FastAPI. The system scrapes loan-related information from banking websites, preprocesses and indexes the data using FAISS embeddings, and delivers context-aware responses through an interactive web interface.
 
-## Project Setup
+---
 
-# Step 1
-Run the Scraper
-"""python scraper.py"""
+## Features
 
-# Step 2
-Preprocess the Data by running below command
- python preprocess.py
+* AI-powered loan product assistance
+* Retrieval-Augmented Generation (RAG) pipeline
+* Semantic search using FAISS vector database
+* Automated web scraping for financial data ingestion
+* FastAPI backend for scalable API serving
+* Interactive web-based UI
+* Context-aware question answering using GPT-4
+* Structured document chunking for improved retrieval accuracy
 
-# Step 3
-Build FAISS index
+---
+
+## Tech Stack
+
+* Python
+* FastAPI
+* FAISS
+* OpenAI GPT-4
+* SentenceTransformers
+* Selenium
+* BeautifulSoup
+* HTML/CSS/JavaScript
+
+---
+
+## System Architecture
+
+### 1. Data Scraping Layer
+
+* Scrapes loan-related information from banking websites
+* Extracts headings, paragraphs, lists, and tabular data
+
+### 2. Data Preprocessing Layer
+
+* Cleans and structures extracted content
+* Splits large text into semantic chunks
+* Optimizes chunks for vector retrieval
+
+### 3. Embedding & Vector Storage
+
+* Converts chunks into embeddings using SentenceTransformers
+* Stores embeddings in a FAISS vector index
+
+### 4. Retrieval-Augmented Generation Pipeline
+
+* Encodes user query into embeddings
+* Retrieves top-k semantically relevant chunks
+* Sends retrieved context to GPT-4
+* Generates grounded, context-aware responses
+
+### 5. API & UI Layer
+
+* FastAPI backend for inference serving
+* Lightweight web interface for user interaction
+
+---
+```
+Project Structure
+agentic-ai-loan-assistant/
+│
+├── .gitignore
+├── README.md
+├── chunks_grouped.json
+├── data_preprocessing.py
+├── faiss_build.py
+├── index_to_text.json
+├── loan_faiss.index
+├── questions.txt
+├── rag.py
+├── requirements.txt
+├── scraped_pages.json
+├── scraper.py
+└── static/
+    └── index.html
+```
+---
+
+## Setup Instructions
+
+### 1. Clone Repository
+
+```bash
+git clone <repository-url>
+cd agentic-ai-loan-assistant
+```
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run Data Scraper
+
+```bash
+python scraper.py
+```
+
+### 4. Preprocess Extracted Data
+
+```bash
+python preprocess.py
+```
+
+### 5. Build FAISS Vector Index
+
+```bash
 python faiss_build.py
+```
 
-# Step 4
-Start the RAG FastAPI Server
+### 6. Start FastAPI Server
+
+```bash
 uvicorn rag_fastapi_app:app --reload
+```
 
-# Step 5
-open ui in browser
+### 7. Launch Web UI
+
+Open browser:
+
+```bash
 http://127.0.0.1:8000/static/index.html
+```
 
+---
 
-## How the RAG System Works
+## AI Models Used
 
-1. Scraper collects:
-scraper.py
-Extracts headings, paragraphs, lists, and tables from bank URLs.
+### Embedding Model
 
-2. Data Preprocess converts:
-data_preprocessing.py
-- Converts paragraphs, list items, and table rows into clean, structured chunks.
-- Splits long texts into smaller pieces for better semantic search.
+* all-MiniLM-L6-v2
 
-3. FAISS:
-faiss.py
-- Converts every chunk into an embedding
-- Saves the index for fast vector search
+### Large Language Model
 
-4. FastAPI:
-rag.py
-- Encodes the user query
-- Retrieves top-k relevant chunks
-- Sends chunks + question to OpenAI
-- Returns an answer strictly from ingested data
+* GPT-4
 
-
-# Command to run fastapi
-
-uvicorn rag:app --reload
+---
 
 ## Architectural Decisions
-# Libraries
-- Selenium: Scrapes dynamic pages with JavaScript.
-- BeautifulSoup: Parses headings, paragraphs, lists, and tables.
-- FAISS: Fast vector search for RAG.
-- SentenceTransformers: Converts text into embeddings.
-- FastAPI: Serves the RAG system via an API.
-- OpenAI API: Generates answers from retrieved chunks.
 
-# Data Strategy
+### Why FAISS?
 
-Chunking: Split paragraphs, list items, and table rows into small pieces as Smaller chunks improve search accuracy and context for the LLM.
+FAISS enables efficient semantic vector retrieval for large-scale text search and improves retrieval latency.
 
-# Model Selection
+### Why Chunking?
 
-- Embedding Model: all-MiniLM-L6-v2 – small, fast, effective.
-- LLM: GPT-4 – high-quality, context-aware answers.
+Smaller semantic chunks improve retrieval precision and contextual grounding for LLM responses.
 
-# AI Tools Used
+### Why FastAPI?
 
-- OpenAI GPT-4: Generates answers.
-- FAISS: Fast retrieval of relevant chunks.
-- SentenceTransformers: Embeddings for vector search.
+FastAPI provides lightweight, high-performance API serving suitable for scalable AI systems.
 
-# Potential Improvements
+---
 
-- Cache embeddings to speed up preprocessing.
+## Future Improvements
 
-- Use smarter chunking (e.g., overlapping chunks).
+* Hybrid search (BM25 + vector retrieval)
+* Agentic workflow integration
+* Multi-bank financial product ingestion
+* GraphRAG integration
+* Streaming responses
+* Authentication & user session memory
+* Dockerized deployment
+* PostgreSQL/pgvector migration
 
+---
+
+## Potential Enterprise Use Cases
+
+* AI-powered banking assistant
+* Loan eligibility guidance
+* Financial product recommendation
+* Internal banking knowledge assistant
+* Automated customer support workflows
+
+---
+
+## License
+
+This project is intended for educational and research purposes.
